@@ -1,5 +1,3 @@
-# Vue 3 + TypeScript + Vite
+# MikeChat
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+I am Mike, a newcomer. This is a chat system I developed, but it is still just a prototype. I hope to learn together with everyone and discuss related knowledge, and you can give me feedback and suggestions for modification at any time. If possible, you can also directly modify my code, and I will seriously consider and make changes based on your suggestions. Thank you very much. Sincerely, Mike
