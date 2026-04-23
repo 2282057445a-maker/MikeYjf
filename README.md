@@ -1,1 +1,1 @@
-# MikeYjf
+# I am Mike, a newcomer. This is a chat system I developed, but it is still just a prototype. I hope to learn together with everyone and discuss related knowledge, and you can give me feedback and suggestions for modification at any time. If possible, you can also directly modify my code, and I will seriously consider and make changes based on your suggestions. Thank you very much. Sincerely, Mike
